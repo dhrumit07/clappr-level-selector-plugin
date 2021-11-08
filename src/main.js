@@ -1,4 +1,4 @@
-import { Events, Styler, UICorePlugin, template, version as clapprVersion } from 'clappr'
+import { Events, Styler, UICorePlugin, template, version as clapprVersion } from '@clappr/player'
 import pluginHtml from './public/level-selector.html'
 import pluginStyle from './public/style.scss'
 
